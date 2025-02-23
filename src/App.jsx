@@ -1,13 +1,11 @@
+// css import
 import "./App.css";
 
+// component import
+import login from "./components/login";
+
 function App() {
-  return (
-    <>
-      <div className="text-indigo-500 text-3xl font-bold">
-        Hello, This is Tailwind
-      </div>
-    </>
-  );
+  return <Body></Body>;
 }
 
 export default App;
