@@ -1,11 +1,13 @@
 // css import
 import "./App.css";
-
-// component import
-import login from "./components/login";
+import Body from "./components/Body";
 
 function App() {
-  return <Body></Body>;
+  return (
+    <>
+      <Body />
+    </>
+  );
 }
 
 export default App;
