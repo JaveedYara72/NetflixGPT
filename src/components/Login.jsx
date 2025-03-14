@@ -12,7 +12,7 @@ const Login = () => {
       />
       <form className="absolute w-96 bg-black bg-opacity-80 my-36 p-12 text-white mx-auto right-0 left-0 rounded">
         <div className="flex flex-col mx-12">
-          <h1 className="text-3xl font-bold mb-6">Sign In</h1>
+          <h1 className="text-3xl font-bold mb-6">Sign In, HI</h1>
           <input type="text" placeholder="Email" className="my-4 p-6" />
           <input type="password" placeholder="Password" className="my-4 p-6" />
           <button type="submit" className="p-2 bg-red-600 rounded my-2">
